@@ -1,8 +1,8 @@
 import org.junit.jupiter.api.Test;
 
 public class RestTest {
-    @Test
-    public void getUsers(){
+        @Test
+    public void getUsers() {
 
     }
 }
